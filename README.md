@@ -4,6 +4,9 @@ Este repositório descreve uma trilha de aprendizagem progressiva sobre o **Micr
 
 A proposta da trilha é conduzir o aluno desde o primeiro contato com o Copilot até a criação de soluções avançadas utilizando extensões e SDKs, respeitando uma progressão lógica de complexidade, autonomia e impacto.
 
+<p align="center">
+<img src="images/Intro.png" width="64%">
+</p>
 
 ## Visão Geral da Trilha
 
@@ -24,6 +27,9 @@ A trilha está organizada em quatro níveis:
 Apresentar o Copilot como assistente de IA conversacional, explicando seus fundamentos, possibilidades de uso e limitações.  
 Este nível é focado em **compreensão e uso básico**, sem necessidade de conhecimento técnico avançado.
 
+<p align="center">
+<img src="images/Chat.png" width="64%">
+</p>
 
 ### O que é o Copilot Chat
 O Copilot Chat é uma interface conversacional baseada em inteligência artificial que permite ao usuário interagir por meio de linguagem natural para obter respostas, explicações, resumos e sugestões.
@@ -71,6 +77,9 @@ Ele funciona como um assistente geral, voltado para produtividade, aprendizado e
 ### Objetivo do nível
 Capacitar o aluno a utilizar o Copilot de forma **produtiva dentro do ambiente corporativo**, integrando a IA às ferramentas do Microsoft 365.
 
+<p align="center">
+<img src="images/M365.png" width="64%">
+</p>
 
 ### O que é o Microsoft 365 Copilot
 É o Copilot integrado às aplicações do Microsoft 365, como Word, Excel, PowerPoint, Outlook e Teams, utilizando os dados e permissões do ambiente corporativo do usuário.
@@ -111,6 +120,9 @@ Capacitar o aluno a utilizar o Copilot de forma **produtiva dentro do ambiente c
 ### Objetivo do nível
 Ensinar o aluno a **criar copilots personalizados**, indo além do uso pronto e passando a construir experiências de IA adaptadas a cenários específicos.
 
+<p align="center">
+<img src="images/Studio.png" width="64%">
+</p>
 
 ### O que é o Copilot Studio
 O Copilot Studio é uma plataforma para criação, customização e publicação de copilots, permitindo definir comportamentos, fluxos conversacionais e integrações.
@@ -153,6 +165,9 @@ Capacitar o aluno a **criar, estender e integrar agentes inteligentes no ecossis
 
 Este nível representa o estágio mais avançado da trilha, onde o aluno deixa de apenas configurar copilots e passa a **desenvolver agentes completos**, integrados a sistemas, serviços e processos de negócio.
 
+<p align="center">
+<img src="images/Toolkit.png" width="64%">
+</p>
 
 ### O que é o Microsoft 365 Agents Toolkit
 O Microsoft 365 Agents Toolkit é um conjunto de ferramentas e frameworks que permite criar **agentes personalizados para o Microsoft 365**, utilizando código, extensões e integrações com serviços externos.
