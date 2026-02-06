@@ -4,7 +4,7 @@ Este repositório descreve uma trilha de aprendizagem progressiva sobre o **Micr
 
 A proposta da trilha é conduzir o aluno desde o primeiro contato com o Copilot até a criação de soluções avançadas utilizando extensões e SDKs, respeitando uma progressão lógica de complexidade, autonomia e impacto.
 
-![Copilot](images/Intro.png)
+![Copilot](images/copilot.png)
 
 ## Visão Geral da Trilha
 
