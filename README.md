@@ -12,15 +12,15 @@ A proposta da trilha é conduzir o aluno desde o primeiro contato com o Copilot 
 
 A trilha está organizada em quatro níveis:
 
-1. **Copilot Explorer** – Introdução ao **Copilot Chat**  
-2. **Copilot Specialist** – Uso do **Microsoft 365 Copilot**  
-3. **Copilot Expert** – Criação de copilots com **Copilot Studio**  
-4. **Copilot Hero** – Extensão e desenvolvimento com **M365 Agents Toolkit**  
+1. **Explorer** – Introdução ao **Copilot Chat**  
+2. **Specialist** – Uso do **Microsoft 365 Copilot**  
+3. **Expert** – Criação de copilots com **Copilot Studio**  
+4. **Hero** – Extensão e desenvolvimento com **M365 Agents Toolkit**  
 
 > [!NOTE]
 > Cada nível aprofunda o uso da IA, ampliando o grau de controle, personalização e integração com sistemas e processos.
 
-## 🛡️ Copilot Explorer  
+## 🛡️ [Explorer](Explorer.md)  
 ### 🤖 Copilot Chat
 
 ### Objetivo do nível
@@ -71,7 +71,7 @@ Ele funciona como um assistente geral, voltado para produtividade, aprendizado e
 - Respostas precisam ser sempre validadas pelo usuário
 
 
-## 🛡️ Copilot Specialist  
+## 🛡️ [Specialist](Specialist.md)   
 ### 🤖 Microsoft 365 Copilot
 
 ### Objetivo do nível
@@ -114,7 +114,7 @@ Capacitar o aluno a utilizar o Copilot de forma **produtiva dentro do ambiente c
 - Não substitui validação humana
 
 
-## 🛡️ Copilot Expert  
+## 🛡️ [Expert](Expert.md)  
 ### 🤖 Copilot Studio
 
 ### Objetivo do nível
@@ -157,7 +157,7 @@ O Copilot Studio é uma plataforma para criação, customização e publicação
 - Complexidade maior que os níveis anteriores
 
 
-## 🛡️ Copilot Hero  
+## 🛡️ [Hero](Hero.md)  
 ### 🤖 Microsoft 365 Agents Toolkit
 
 ### Objetivo do nível
