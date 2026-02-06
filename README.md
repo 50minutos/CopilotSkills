@@ -10,10 +10,10 @@ A proposta da trilha é conduzir o aluno desde o primeiro contato com o Copilot 
 
 A trilha está organizada em quatro níveis:
 
-1. **[Explorer](Explorer.md)** – Introdução ao **Copilot Chat**  
-2. **[Specialist](Specialist.md)** – Uso do **Microsoft 365 Copilot**  
-3. **[Expert](Expert.md)** – Criação de copilots com **Copilot Studio**  
-4. **[Hero](Hero.md)** – Extensão e desenvolvimento com **M365 Agents Toolkit**  
+- **[Explorer](Explorer.md)** – Introdução ao **Copilot Chat**  
+- **[Specialist](Specialist.md)** – Uso do **Microsoft 365 Copilot**  
+- **[Expert](Expert.md)** – Criação de copilots com **Copilot Studio**  
+- **[Hero](Hero.md)** – Extensão e desenvolvimento com **M365 Agents Toolkit**  
 
 Esta trilha foi desenhada para acompanhar a evolução natural do uso do Copilot:
 
