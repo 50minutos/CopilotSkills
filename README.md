@@ -1,4 +1,4 @@
-# Microsoft Copilot – Trilha de Aprendizagem
+# Trilha de Aprendizagem Copilot
 
 Este repositório descreve uma trilha de aprendizagem progressiva sobre o **Microsoft Copilot**, organizada em quatro níveis de maturidade técnica.
 
