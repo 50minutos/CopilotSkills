@@ -10,10 +10,10 @@ A proposta da trilha é conduzir o aluno desde o primeiro contato com o Copilot 
 
 A trilha está organizada em quatro níveis:
 
-1. **Copilot Explorer** – Introdução ao Copilot Chat  
-2. **Copilot Specialist** – Uso do Copilot no Microsoft 365  
-3. **Copilot Expert** – Criação de copilots com Copilot Studio  
-4. **Copilot Hero** – Extensão e desenvolvimento com Copilot SDK  
+1. **Copilot Explorer** – Introdução ao **Copilot Chat**  
+2. **Copilot Specialist** – Uso do **M365 Copilot**  
+3. **Copilot Expert** – Criação de copilots com **Copilot Studio**  
+4. **Copilot Hero** – Extensão e desenvolvimento com **M365 Agents Toolkit**  
 
 Cada nível aprofunda o uso da IA, ampliando o grau de controle, personalização e integração com sistemas e processos.
 
@@ -165,23 +165,28 @@ O Copilot Studio é uma plataforma para criação, customização e publicação
 ---
 
 ## Copilot Hero  
-### Copilot SDK
+### Microsoft 365 Agents Toolkit
 
 ### Objetivo do nível
-Capacitar o aluno a **estender e integrar o Copilot em soluções avançadas**, utilizando desenvolvimento, código e arquitetura de software.
+Capacitar o aluno a **criar, estender e integrar agentes inteligentes no ecossistema Microsoft 365**, utilizando o Agents Toolkit para desenvolver soluções avançadas baseadas em IA, com alto grau de personalização e impacto organizacional.
+
+Este nível representa o estágio mais avançado da trilha, onde o aluno deixa de apenas configurar copilots e passa a **desenvolver agentes completos**, integrados a sistemas, serviços e processos de negócio.
 
 ---
 
-### O que é o Copilot SDK
-O Copilot SDK permite criar extensões, plugins e integrações profundas com o Copilot, conectando-o a aplicações, serviços e sistemas externos.
+### O que é o Microsoft 365 Agents Toolkit
+O Microsoft 365 Agents Toolkit é um conjunto de ferramentas e frameworks que permite criar **agentes personalizados para o Microsoft 365**, utilizando código, extensões e integrações com serviços externos.
+
+Com ele, é possível desenvolver agentes que atuam de forma contextualizada em ambientes como Teams, Microsoft 365 e aplicações corporativas, indo além das capacidades visuais e declarativas do Copilot Studio.
 
 ---
 
 ### Para que serve
-- Desenvolver extensões customizadas
-- Integrar Copilot a aplicações próprias
-- Criar soluções avançadas de IA
-- Escalar e industrializar o uso do Copilot
+- Desenvolver agentes inteligentes personalizados
+- Criar extensões avançadas para o ecossistema Microsoft 365
+- Integrar agentes a APIs, serviços e sistemas corporativos
+- Implementar lógica de negócio complexa
+- Escalar e industrializar soluções baseadas em Copilot
 
 ---
 
@@ -189,24 +194,28 @@ O Copilot SDK permite criar extensões, plugins e integrações profundas com o 
 - Desenvolvedores
 - Arquitetos de software
 - Profissionais avançados de TI
-- Times de produto e engenharia
+- Times de engenharia, produto e inovação
+
+Este nível é indicado para quem já domina o uso e a criação de copilots e deseja avançar para **desenvolvimento profissional de agentes**.
 
 ---
 
 ### Principais features
 - Desenvolvimento baseado em código
-- Integração com serviços externos
-- Criação de extensões e plugins
-- Controle avançado de comportamento
-- Suporte a cenários complexos
+- Criação de agentes customizados
+- Integração com APIs e serviços externos
+- Suporte a extensões no Microsoft Teams
+- Controle avançado de lógica e comportamento
+- Integração com o ecossistema Microsoft 365
 
 ---
 
 ### Restrições e limitações
 - Exige conhecimento avançado de desenvolvimento
-- Maior responsabilidade sobre segurança e governança
-- Necessita arquitetura bem definida
-- Curva de aprendizado mais elevada
+- Requer domínio de arquitetura de software
+- Maior responsabilidade sobre segurança, governança e compliance
+- Curva de aprendizado elevada
+- Necessita planejamento cuidadoso para manutenção e escala
 
 ---
 
